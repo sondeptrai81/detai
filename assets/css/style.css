@@ -185,7 +185,7 @@
 
 .log--out {
     position: absolute;
-    right: 80px;
+    right: -10px;
     top: 53%;
     transform: translate(-50%,-50%);
     cursor: pointer;
